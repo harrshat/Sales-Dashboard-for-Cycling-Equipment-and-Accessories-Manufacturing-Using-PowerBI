@@ -12,30 +12,31 @@ Workflow:
   
 ![PowerBI Dashboard](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/d822daeb-b434-4fbd-b083-78addf187f27)
 
-Executive Dashboard
-Visualizations built using KPIs, measures, line graph, forecasting using weekly revenue, bar graph for orders by category, and matrix
+**Executive Dashboard**
+**Visualizations built using KPIs, measures, line graph, forecasting using weekly revenue, bar graph for orders by category, and matrix**
 
 ![PowerBI - Executive Dashboard](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/7dce56d0-ca56-442b-b4b8-abdcbcca37f6)
 
-Map Dashboard 
+**Map Dashboard**
 
 ![PowerBI - Map](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/ee50f216-6616-44d7-85ad-3e7fce9cdb06)
 
-Product Detail Dashboard
-Visualizations built using slicers, area graph, and gauge for monthly targets
+**Product Detail Dashboard
+Visualizations built using slicers, area graph, and gauge for monthly targets**
 
 ![PowerBI - Product Detail](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/5d3f0ec3-ac79-4df8-b422-2b579a4921ee)
 
-Customer Detail Dashboard
+**Customer Detail Dashboard**
 
 ![PowerBI Customer Detail](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/6f96f5cc-398a-4675-87bf-fe659ca6e68d)
 
-Category Tooltip 
-Customized tooltip displayed when cursor hovers over Orders by Category bar chart in Executive Dashboard
+**Category Tooltip 
+Customized tooltip displayed when cursor hovers over Orders by Category bar chart in Executive Dashboard**
 
 ![PowerBI tooltip](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/8f15f855-444c-4e7e-ae91-1d1b82492bc1)
 
-Key Influencers Dashboard built using AI tools in PowerBI
+**Key Influencers Dashboard built using AI tools in PowerBI**
+
 ![PowerBI AI](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/b1a927c2-1a90-40b3-956f-755af712445a)
 
 
