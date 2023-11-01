@@ -7,4 +7,7 @@ Workflow:
 - Connecting and transforming raw data
 - Building relational data model
 - Creating calculated columns and measures with DAX
-- Design an interactive dashboard to visualize data with appropriate visualizations for each use case. 
+- Design an interactive dashboard to visualize data with appropriate visualizations for each use case.
+
+  
+![PowerBI Dashboard](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/d822daeb-b434-4fbd-b083-78addf187f27)
