@@ -24,7 +24,7 @@ Workflow:
 **Product Detail Dashboard
 Visualizations built using slicers, area graph, and gauge for monthly targets**
 
-![PowerBI - Product Detail](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/5d3f0ec3-ac79-4df8-b422-2b579a4921ee)
+![PowerBI - Product Detail](https://github.com/harrshat/Sales-Dashboard-for-Cycling-Equipment-and-Accessories-Manufacturing-Using-PowerBI/assets/142029312/6bcfcf61-6c31-4f5e-b45d-fe420086bf47)
 
 **Customer Detail Dashboard**
 
